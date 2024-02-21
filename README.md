@@ -1,1 +1,1 @@
-# Nostr-start-projects
+# Just a few unrelated Nostr projects.
